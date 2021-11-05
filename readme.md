@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Armaghan's portfolio will be up soon!</h2>
+    <h2>Now only readme file is working!</h2>
 </body>
 </html>
